@@ -1,5 +1,5 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Franz%20Gronchi&reversal=false&fontAlign=50&descAlign=51&descAlignY=51&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Franz%20Gronchi&fontColor=F5EEB2"/>
 </header>
 
 
