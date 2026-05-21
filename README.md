@@ -8,7 +8,9 @@
 - 	:guitar: I'm a musician, I play bass guitar
 -   :books: Comic books addicted
 - ⚡ Fun fact: to help push the food down their throat, frogs retract their eyeballs into the sides of their heads.
-- 📫 How to reach me: franzgronchi@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/franz-gronchi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="60"/>
+  </a>
 <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
